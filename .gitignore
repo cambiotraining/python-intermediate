@@ -23,3 +23,10 @@ _site
 /.luarc.json
 
 **/*.quarto_ipynb
+
+# Mac
+.DS_Store
+
+# Pixi Environments
+.pixi/*
+!.pixi/config.toml
